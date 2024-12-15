@@ -1,10 +1,10 @@
-import express, {json,Request, Response} from "express"
+import express from "express"
 import router from "./routes";
 function createApp(){
     const app = express();
 
-    app.use(json());
-    app.use("/", router)
+    app.use(express.json());
+    app.use("/api", router)
     
     return app;
 }
