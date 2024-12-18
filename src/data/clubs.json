@@ -1,0 +1,63 @@
+
+[
+    {
+      "id": 1,
+      "name": "Real Madrid",
+      "country": "Espanha",
+      "founded": 1902,
+      "stadium": "Santiago Bernabéu",
+      "titles": {
+        "championsLeague": 14,
+        "domesticLeague": 35,
+        "domesticCup": 19
+      }
+    },
+    {
+      "id": 2,
+      "name": "Barcelona",
+      "country": "Espanha",
+      "founded": 1899,
+      "stadium": "Camp Nou",
+      "titles": {
+        "championsLeague": 5,
+        "domesticLeague": 26,
+        "domesticCup": 31
+      }
+    },
+      {
+      "id": 3,
+      "name": "Bayern de Munique",
+      "country": "Alemanha",
+      "founded": 1900,
+      "stadium": "Allianz Arena",
+      "titles": {
+        "championsLeague": 6,
+        "domesticLeague": 33,
+        "domesticCup": 20
+      }
+    },
+      {
+      "id": 4,
+      "name": "Liverpool",
+      "country": "Inglaterra",
+      "founded": 1892,
+      "stadium": "Anfield",
+      "titles": {
+        "championsLeague": 6,
+        "domesticLeague": 19,
+        "domesticCup": 8
+      }
+    },
+      {
+      "id": 5,
+      "name": "Milan",
+      "country": "Itália",
+      "founded": 1899,
+      "stadium": "San Siro",
+      "titles": {
+        "championsLeague": 7,
+        "domesticLeague": 19,
+        "domesticCup": 5
+      }
+    }
+  ]
